@@ -1,4 +1,5 @@
 # We are Z-Innovations, the team behind ZU and other projects.
+# Мы Z-Инновации, команда, работающая над ЗУ и другими проектами, включая Z-Технологии и ОЛЕГ ТЕХНИК.
 
 ## Our projects:
 
